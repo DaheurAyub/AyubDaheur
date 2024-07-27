@@ -3,8 +3,8 @@
 Welcome to my personal website. Below is an overview of its structure and content.
 
 ## Home Page
-- **Full Name:** [Your Full Name]
-- **Titles:** Lifelong Learner, Aspiring Software Engineer, Problem Solver
+- **Full Name:** Ayub Daheur
+- **Titles:** Lifelong Learner, Tech Explorer, Persistent Problem Solver
 
 ## About Me
 Clicking on "Learn More About Me" will take you to the About Me section, where you can find a brief paragraph about my background and interests.
@@ -13,14 +13,14 @@ Clicking on "Learn More About Me" will take you to the About Me section, where y
 Scrolling down from the About Me section, you will find a list of my skills:
 - Python
 - Java
-- SQL
+- Html
 - And more...
 
 ## Projects
 Continuing to scroll, you will come to the Projects section, which showcases the projects I have worked on, including:
-- [Project 1]
+- Harvard CS50
 - Headstarter AIO (current project)
-- [Other Projects]
+
 
 ## Contact Me
 At the bottom of the page, you will find the Contact Me section with two buttons:

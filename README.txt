@@ -1,45 +1,30 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# My Personal Website
 
+Welcome to my personal website. Below is an overview of its structure and content.
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+## Home Page
+- **Full Name:** [Your Full Name]
+- **Titles:** Lifelong Learner, Aspiring Software Engineer, Problem Solver
 
-- It's built with components from my Responsive Tools project.
+## About Me
+Clicking on "Learn More About Me" will take you to the About Me section, where you can find a brief paragraph about my background and interests.
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+## Skills
+Scrolling down from the About Me section, you will find a list of my skills:
+- Python
+- Java
+- SQL
+- And more...
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+## Projects
+Continuing to scroll, you will come to the Projects section, which showcases the projects I have worked on, including:
+- [Project 1]
+- Headstarter AIO (current project)
+- [Other Projects]
 
-  (* = still entirely optional if you prefer vanilla CSS :)
+## Contact Me
+At the bottom of the page, you will find the Contact Me section with two buttons:
+- **Email Me:** This button will open your default email client and start an email to me.
+- **LinkedIn:** This button will take you to my LinkedIn profile.
 
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thank you for visiting my website! Feel free to reach out if you have any questions or just want to connect.
